@@ -12281,6 +12281,11 @@ h5,
   .owl-carousel.home-slider .slider-item .slider-text h1 {
     font-size: 40px;
   }
+  .owl-carousel.home-slider {
+    position: relative;
+    height: 472px;
+    z-index: 0;
+}
 }
 
 .owl-carousel.home-slider .slider-item .slider-text h2 {
