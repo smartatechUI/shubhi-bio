@@ -13357,6 +13357,10 @@ textarea.form-control {
   .ftco-counter .counter-wrap {
     margin-bottom: 20px;
   }
+  .owl-carousel.home-slider {
+    position: relative;
+    height: 572px !important;
+}
 }
 
 .ftco-counter .ftco-number {
