@@ -13361,6 +13361,9 @@ textarea.form-control {
     position: relative;
     height: 572px !important;
 }
+.owl-carousel.home-slider .slider-item{
+  height: 572px !important;
+}
 }
 
 .ftco-counter .ftco-number {
